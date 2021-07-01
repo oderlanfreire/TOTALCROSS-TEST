@@ -1,0 +1,5 @@
+Question: Array of Multiples https://edabit.com/challenge/7oyHeyJR2LkB3hr8g
+
+To solve this question, the function receive two values by parameter, n and tam, inside the function, I've declared an vector, receiving the variable tam as a lenght. I used a loop to walk in the vector and do the operation, the loop have two iterators, "i" and "j", with "i" start in 1 and "j" start in 0; "i" and "j" will be increase until "i" get the value equals to the variable tam, inside the loop, the vector in the position j save a multiple of n using the operation n * "i".
+
+To the output, I print a open bracket and in the next line, I use a loop to walk and print the vector, inside the loop, i use a condition, if the iterator was smaller than the value of tam less 1, will be print the value of the vector in the position of the interator plus an comma, else will be print the value of the vector in the position of the interator plus the close backet.

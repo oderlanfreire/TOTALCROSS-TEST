@@ -1,0 +1,3 @@
+Question: Are the Numbers Equal? https://edabit.com/challenge/uSiEPX7YrhNsqtzMr
+
+To solve this question, I just used a condition inside the function, the function receive two numbers, the condition get this two numbers and compare, if number a it's different of number b, the function will return false, in binary equals 0, if the numbers don't get caught by the condition, the funciont returt true, in binary 1.

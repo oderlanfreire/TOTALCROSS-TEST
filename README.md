@@ -1,0 +1,1 @@
+Inside of every folder exist an archive README explaning about the code that I made.
